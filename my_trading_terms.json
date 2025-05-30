@@ -1,0 +1,22 @@
+[
+    {
+        "term": "Stock",
+        "definition": "A share of ownership in a company. If you own stock, you own a piece of that company."
+    },
+    {
+        "term": "Bond",
+        "definition": "A loan made by an investor to a borrower (typically corporate or governmental). The borrower repays the loan with interest over time."
+    },
+    {
+        "term": "Dividend",
+        "definition": "A distribution of a portion of a company's earnings, decided by the board of directors, to a class of its shareholders."
+    },
+    {
+        "term": "Bull Market",
+        "definition": "A market condition where stock prices are rising or are expected to rise."
+    },
+    {
+        "term": "Bear Market",
+        "definition": "A market condition where stock prices are falling, and widespread pessimism prevails."
+    }
+]

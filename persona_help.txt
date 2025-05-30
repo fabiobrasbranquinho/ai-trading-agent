@@ -1,0 +1,13 @@
+AI Agent Help:
+--------------------------------------------------
+- Ask me to explain a trading or financial term.
+  (e.g., "What is a stock?", "Explain RSI")
+- I will check my local knowledge first, then ask the AI for more.
+- The AI will provide a definition and an example, then ask if it made sense.
+
+Available commands:
+  /help        - Show this help message.
+  /my_terms    - List terms I have predefined definitions for.
+  /reset       - Clear the current conversation history and start fresh.
+  quit or exit - Exit the agent.
+--------------------------------------------------
