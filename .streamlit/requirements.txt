@@ -1,3 +1,0 @@
-streamlit
-google-generativeai
-# Add any other specific libraries if you used them
