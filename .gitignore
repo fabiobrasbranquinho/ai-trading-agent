@@ -137,7 +137,7 @@ env.bak/
 venv.bak/
 
 # Streamlit secrets (VERY IMPORTANT)
-.streamlit/secrets.toml
+.streamlit/
 
 # Spyder project settings
 .spyderproject
